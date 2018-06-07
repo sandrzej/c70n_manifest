@@ -1,7 +1,6 @@
 # c70n_manifest
-Local manifest file for building LineageOS 14.1 for LG Spirit 4G LTE
+Local manifest file for building LineageOS 15.1 for LG Spirit 4G LTE
 
-Steps to build LineageOS for Spirit 4G LTE:
 
 ### Initialize the LineageOS source repository
 
