@@ -8,7 +8,7 @@
   <!-- LG Spirit device tree and dependencies -->
    <project path="device/lge/c70n" name="sandrzej/android_device_lge_c70n" revision="lineage-15.1" />
    <project path="vendor/lge/c70n" name="sandrzej/android_vendor_lge_c70n" revision="lineage-15.1" />
-   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-15.1"/>
+   <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" revision="lineage-16.0"/>
    <project path="external/stlport" name="LineageOS/android_external_stlport" revision="lineage-15.1"/>
    
      <!-- qcom/common device tree for dtbtool -->
