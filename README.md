@@ -18,7 +18,7 @@ curl https://raw.githubusercontent.com/sandrzej/c70n_manifest/cm-14.1/local_mani
 ## Build lineage
 cd ~/android/system/
 repo sync
-
+rm -rf /home/andrzej/android/system/hardware/qcom/display-caf/msm8916/liblight
 source build/envsetup.sh
 breakfast c70n
 ccache -M 50G
